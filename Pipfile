@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+pandas = "*"
+numpy = "*"
+jupyter = "*"
+notebook = "*"
+langchain = "*"
+python-dotenv = "*"
+openai = "*"
+tiktoken = "*"
+docarray = "*"
+wikipedia = "*"
+datetime = "*"
